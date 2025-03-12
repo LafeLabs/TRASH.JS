@@ -1,0 +1,82 @@
+[
+    {
+        "text": "HOME",
+        "url": "index.html"
+    },
+    {
+        "text": "TRASH.JS",
+        "url": "https://github.com/LafeLabs/TRASH.JS"
+    },
+    {
+        "text": "hyperspace-editor.html",
+        "url": "hyperspace-editor.html"
+    },
+    {
+        "text": "hyperspace.txt",
+        "url": "hyperspace.txt"
+    },
+    {
+        "text": "QRCODE.JS",
+        "url": "https://davidshimjs.github.io/qrcodejs/"
+    },
+    {
+        "text": "ACE.JS",
+        "url": "https://ace.c9.io/"
+    },
+    {
+        "text": "P5JS",
+        "url": "https://p5js.org/"
+    },
+    {
+        "text": "HAMMER.JS",
+        "url": "https://hammerjs.github.io/"
+    },
+    {
+        "text": "MATHJAX.JS",
+        "url": "https://www.mathjax.org/"
+    },
+    {
+        "text": "SHOWDOWN.JS",
+        "url": "https://showdownjs.com/"
+    },
+    {
+        "text": "GEOMETRON.JS",
+        "url": "geometron.js"
+    },
+    {
+        "text": "TRASHMAGIC.JS",
+        "url": "trashmagic.js"
+    },
+    {
+        "text": "XMLHttpRequest",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest"
+    },
+    {
+        "text": "TUTORIAL",
+        "url": "https://www.w3schools.com/js/"
+    },
+    {
+        "text": "MOZILLA JS PAGE",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    },
+    {
+        "text": "WIKIPEDIA JS PAGE",
+        "url": "https://en.wikipedia.org/wiki/JavaScript"
+    },
+    {
+        "text": "WIKIPEDIA JS PAGE",
+        "url": "https://en.wikipedia.org/wiki/JavaScript"
+    },
+    {
+        "text": "HYPERSPACE EDITOR",
+        "url": "hyperspace-editor.html"
+    },
+    {
+        "text": "QR CODES",
+        "url": "hyperspace-page.html"
+    },
+    {
+        "text": "readme.html",
+        "url": "readme.html"
+    }
+]
