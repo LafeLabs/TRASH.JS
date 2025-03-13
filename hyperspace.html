@@ -31,6 +31,7 @@ CAPS LOCK ALWAYS ON!
     <div id ="linkscroll">
         
     </div>
+    <textarea id="textio"></textarea>
 <script>
 
 
@@ -57,12 +58,15 @@ var httpc = new XMLHttpRequest();
 httpc.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
         hyperspace = JSON.parse(this.responseText);
+        markdown = "";
         for(var index = 0;index < hyperspace.length;index++){
             var newa = document.createElement("A");
             newa.innerHTML = hyperspace[index].text;
             newa.href = hyperspace[index].url;
             document.getElementById("linkscroll").appendChild(newa);
+            markdown += " - [" + hyperspace[index].text + "](" + hyperspace[index].url + ")\n";
         }
+        document.getElementById("textio").value = markdown;
         rainbow(document.getElementsByTagName("A"));
 
     }

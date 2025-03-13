@@ -4,6 +4,18 @@
         "url": "index.html"
     },
     {
+        "text": "editor.php",
+        "url": "editor.php"
+    },
+    {
+        "text": "webeditor.html",
+        "url": "webeditor.html"
+    },
+    {
+        "text": "readme.html",
+        "url": "readme.html"
+    },
+    {
         "text": "TRASH.JS",
         "url": "https://github.com/LafeLabs/TRASH.JS"
     },
@@ -68,15 +80,7 @@
         "url": "https://en.wikipedia.org/wiki/JavaScript"
     },
     {
-        "text": "HYPERSPACE EDITOR",
-        "url": "hyperspace-editor.html"
-    },
-    {
         "text": "QR CODES",
         "url": "hyperspace-page.html"
-    },
-    {
-        "text": "readme.html",
-        "url": "readme.html"
     }
 ]
